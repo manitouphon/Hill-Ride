@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file>resource/spr_bike_0.png</file>
+        <file>resource/map_1BG.jpg</file>
+        <file>resource/scene_1BG.png</file>
+        <file>resource/map_2BG.jpg</file>
+        <file>resource/scene_2BG.jpg</file>
+        <file>resource/logo.ico</file>
+        <file>resource/background.png</file>
+        <file>resource/bgm.mp3</file>
+        <file>resource/click.wav</file>
+        <file>resource/hover.wav</file>
+        <file>resource/pixelCar2.png</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>fonts(Must install)/AKbalthom Freehand [Version 1.50] 082014.ttf</file>
+        <file>fonts(Must install)/AKbalthom HighSchool.ttf</file>
+        <file>fonts(Must install)/AKbalthom HighSchool-Frame [Version 1.10] 082014.ttf</file>
+        <file>fonts(Must install)/AKbalthom HighSchool-Fun.ttf</file>
+        <file>fonts(Must install)/AKbalthom Kbach [Version 1.50] 082014.ttf</file>
+        <file>fonts(Must install)/AKbalthom KhmerBasic.ttf</file>
+        <file>fonts(Must install)/AKbalthom KhmerHand.ttf</file>
+        <file>fonts(Must install)/AKbalthom KhmerLer [Version 2.00].ttf</file>
+        <file>fonts(Must install)/AKbalthom Seoul.ttf</file>
+        <file>fonts(Must install)/AKbalthom Superhero.ttf</file>
+        <file>fonts(Must install)/AKbalthom SuperheroKH.ttf</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>resource/main.qml</file>
+        <file>resource/UiButton.qml</file>
+    </qresource>
+</RCC>
